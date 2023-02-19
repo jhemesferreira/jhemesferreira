@@ -1,13 +1,10 @@
-<div align="center">
-  <img src="https://media3.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e479vndzb3nm6v2g5zuwn6bpk1t02mj197ac3h306xz&rid=giphy.gif&ct=g" width="300" height="150"/>
-</div>
-
+<center>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</center>
 
----
 
 ### 👋 À propos de moi
 
