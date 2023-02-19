@@ -1,12 +1,21 @@
+<div align="center">
+  <img src="https://media2.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47yn0s5rr7admsdp13bbasqqzkqmhzhc99g8sjw7r5&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ### 👋 À propos de moi
 
-🎓 Je suis un ingénieur civil de formation qui a développé un intérêt pour le développement web. 
-💻 J'ai acquis des compétences en programmation avec des langages tels que PHP et JavaScript, et je travaille avec des frameworks tels que Symfony, Vue.js et Nuxt.js.
-🚀 Je suis passionné par le développement de solutions web créatives et techniques...
+🎓 Je suis un ingénieur civil de formation qui a développé un intérêt pour le développement web. <br>
+💻 J'ai acquis des compétences en programmation avec des langages tels que PHP et JavaScript, et je travaille avec des frameworks tels que Symfony, Vue.js et Nuxt.js. <br>
+🚀 Je suis passionné par le développement de solutions web créatives et techniques... <br>
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/jhemesferreira/">
+  <a href="https://www.linkedin.com/in/jhemesferreira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
