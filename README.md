@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 À propos de moi
+
+🎓 Je suis un ingénieur civil de formation qui a développé un intérêt pour le développement web. 
+💻 J'ai acquis des compétences en programmation avec des langages tels que PHP et JavaScript, et je travaille avec des frameworks tels que Symfony, Vue.js et Nuxt.js.
+🚀 Je suis passionné par le développement de solutions web créatives et techniques...
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)(https://www.linkedin.com/in/jhemesferreira/)
 
 <!--
 **jhemesferreira/jhemesferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
